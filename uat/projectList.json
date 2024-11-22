@@ -1,0 +1,34 @@
+{
+    "p09":{
+        "list":[
+            {
+                "editorCode": "p09",
+                "name": "技能预览编辑器"
+            },
+            {
+                "editorCode": "p09-world",
+                "name": "玩法场景编辑器"
+            }
+        ]
+    },
+    "p10":{
+        "list":[
+            {
+                "editorCode": "p10-world",
+                "name": "玩法场景编辑器"
+            },
+            {
+                "editorCode": "p10",
+                "name": "技能预览编辑器"
+            }
+        ]
+    },
+    "p07ultra":{
+        "list":[
+            {
+                "editorCode": "p07ultra-world",
+                "name": "玩法场景编辑器"
+            }
+        ]
+    }
+}
