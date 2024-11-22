@@ -12,15 +12,15 @@
         "metaFilePath":"http://gforge-editors.iwgame.com:8081/repository/gforge-editor-preview/meta-app/p09-world/1.1.10/meta.zip"
     },
     "p10":{
-        "metaVerison":"1.0.17",
+        "metaVerison":"1.0.18",
         "metaFilePath":"http://gforge-editors.iwgame.com:8081/repository/gforge-editor-preview/meta-app/p10/1.0.17/meta.zip"
     },
     "p10-world":{
-        "metaVerison":"1.1.15",
+        "metaVerison":"1.1.16",
         "metaFilePath":"http://gforge-editors.iwgame.com:8081/repository/gforge-editor-preview/meta-app/p10-world/1.1.15/meta.zip"
     },
     "p07ultra-world":{
-        "metaVerison":"1.1.15",
+        "metaVerison":"1.1.16",
         "metaFilePath":"http://gforge-editors.iwgame.com:8081/repository/gforge-editor-preview/meta-app/p07ultra-world/1.1.15/meta.zip"
     }
 }
