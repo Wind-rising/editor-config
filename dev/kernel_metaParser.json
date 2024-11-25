@@ -42,5 +42,9 @@
     "1.1.5":{
         "metaParserVersion":"1.1.4",
         "metaParserPath":"http://gforge-editors.iwgame.com:8081/repository/gforge-editor-snapshot/meta-parse-upgrade/1.1.4/index.js"
+    },
+    "1.1.6":{
+        "metaParserVersion":"1.1.5",
+        "metaParserPath":"http://gforge-editors.iwgame.com:8081/repository/gforge-editor-snapshot/meta-parse-upgrade/1.1.5/index.js"
     }
 }
