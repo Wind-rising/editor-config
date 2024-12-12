@@ -58,5 +58,15 @@
         "centerVersion":"1.0.16",
         "makerVersion":"1.0.9",
         "kernelUrl":"http://gforge-editors.iwgame.com:8081/repository/gforge-editor-snapshot/kernel-upgrade/1.1.6/kernel.zip"
+    },
+    "1.1.9":{
+        "centerVersion":"1.0.16",
+        "makerVersion":"1.0.9",
+        "kernelUrl":"http://gforge-editors.iwgame.com:8081/repository/gforge-editor-snapshot/kernel-upgrade/1.1.9/kernel.zip"
+    },
+    "1.1.10":{
+        "centerVersion":"1.0.16",
+        "makerVersion":"1.0.9",
+        "kernelUrl":"http://gforge-editors.iwgame.com:8081/repository/gforge-editor-snapshot/kernel-upgrade/1.1.10/kernel.zip"
     }
 }
